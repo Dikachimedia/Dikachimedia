@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dikachimedia
 - 👀 I’m interested in new development
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning web and app design
 - 💞️ I’m looking to collaborate on new developmens
 - 📫 How to reach me on Whatsapp with 09063455624
 
